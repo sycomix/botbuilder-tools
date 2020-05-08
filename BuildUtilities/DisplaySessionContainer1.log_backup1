@@ -1,0 +1,84 @@
+#0(I)[2020-05-08 02:36:46,903]{00000E70}<NvContainer>      Container main v1.25
+#1(I)[2020-05-08 02:36:46,903]{00000E70}<NvContainer>      Telemetry API initialized
+#2(I)[2020-05-08 02:36:46,905]{00000E70}<NvcHost>          Base host initialized successfully
+#3(I)[2020-05-08 02:36:46,925]{00000E70}<NvcHostWin32>     Open parent process 00000000000001A0 for PID 2648
+#4(I)[2020-05-08 02:36:46,925]{00000E70}<NvcHostWin32>     Win32 host initialized successfully
+#5(I)[2020-05-08 02:36:46,925]{00000E70}<NvcHostWin32>     Use external event 'Global\NvContainer2648-session1-c:_windows_system32_driverstore_filerepository_nv_dispi.inf_amd64_bf9d63d85af086a6_display.nvcontainer_plugins_session' for quitting
+#6(I)[2020-05-08 02:36:46,925]{00000E70}<NvcHost>          Load plugins from C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\Session
+#7(I)[2020-05-08 02:36:46,925]{00000E70}<NvcPluginManager> Loading C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#8(W)[2020-05-08 02:36:46,925]{00000E70}<NvcJsonFileStora> Failed to load JSON from C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\Session/NvFBCPlugin.json
+#9(W)[2020-05-08 02:36:46,933]{00000E70}<NvcRegistryStora> Failed to initialize RegistryStorage with status 2
+#0(I)[2020-05-08 02:36:46,934]{00000E98}<NvcHostWin32>     Parent process tracking thread started with timeout: 4294967295
+#1(I)[2020-05-08 02:36:47,340]{00000E70}<NvcPluginLoadHel> Secure loading C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\Session/NvFBCPlugin.dll - 6.14.14.5082 at 00007FFA40490000 took 404593 microseconds
+#2(I)[2020-05-08 02:36:47,340]{00000E70}<NvcPluginManager> Loaded C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\Session/NvFBCPlugin.dll
+#3(I)[2020-05-08 02:36:47,340]{00000E70}<NvcPluginManager> Loaded mandatory plugin NvFBCPlugin, version 1
+#4(I)[2020-05-08 02:36:47,340]{00000E70}<NvcPluginManager> Loading C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\Session/nvprofileupdaterplugin.dll
+#5(W)[2020-05-08 02:36:47,340]{00000E70}<NvcJsonFileStora> Failed to load JSON from C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\Session/nvprofileupdaterplugin.json
+#6(W)[2020-05-08 02:36:47,340]{00000E70}<NvcRegistryStora> Failed to initialize RegistryStorage with status 2
+#7(I)[2020-05-08 02:36:47,474]{00000E70}<NvcPluginLoadHel> Secure loading C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\Session/nvprofileupdaterplugin.dll - 27.21.14.5082 at 00007FFA3F960000 took 125937 microseconds
+#8(I)[2020-05-08 02:36:47,474]{00000E70}<NvcPluginManager> Loaded C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\Session/nvprofileupdaterplugin.dll
+#9(I)[2020-05-08 02:36:47,474]{00000E70}<NvcPluginManager> Loaded mandatory plugin NvProfileUpdaterPlugin, version 1
+#0(I)[2020-05-08 02:36:47,474]{00000E70}<NvcPluginManager> Loading C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\Session/nvxdsyncplugin.dll
+#1(W)[2020-05-08 02:36:47,474]{00000E70}<NvcJsonFileStora> Failed to load JSON from C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\Session/nvxdsyncplugin.json
+#2(W)[2020-05-08 02:36:47,474]{00000E70}<NvcRegistryStora> Failed to initialize RegistryStorage with status 2
+#3(I)[2020-05-08 02:36:47,621]{00000E70}<NvcPluginLoadHel> Secure loading C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\Session/nvxdsyncplugin.dll - 8.17.14.5082 at 00007FFA3F5B0000 took 131529 microseconds
+#4(I)[2020-05-08 02:36:47,621]{00000E70}<NvcPluginManager> Loaded C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\Session/nvxdsyncplugin.dll
+#5(I)[2020-05-08 02:36:47,637]{00000E70}<NvcPluginManager> Loaded mandatory plugin NvXDSyncPlugin, version 1
+#6(I)[2020-05-08 02:36:47,637]{00000E70}<NvcPluginManager> Loading C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\Session/_nvppo.dll
+#7(W)[2020-05-08 02:36:47,637]{00000E70}<NvcJsonFileStora> Failed to load JSON from C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\Session/_nvppo.json
+#8(W)[2020-05-08 02:36:47,637]{00000E70}<NvcRegistryStora> Failed to initialize RegistryStorage with status 2
+#9(I)[2020-05-08 02:36:47,753]{00000E70}<NvcPluginLoadHel> Secure loading C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\Session/_nvppo.dll - 27.21.14.5082 at 00007FFA3EA30000 took 115911 microseconds
+#0(I)[2020-05-08 02:36:47,753]{00000E70}<NvcPluginManager> Loaded C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\Session/_nvppo.dll
+#1(I)[2020-05-08 02:36:47,753]{00000E70}<NvcPluginManager> Loaded optional plugin AutoFL_Plugin, version 1
+#2(I)[2020-05-08 02:36:47,753]{00000E70}<NvcHost>          Creating directory listener to represent current folder state
+#3(I)[2020-05-08 02:36:47,753]{00000E70}<DirectoryListene> Adding directory C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\Session.
+#4(I)[2020-05-08 02:36:47,753]{00000E70}<NvcHost>          Successfully updated directory change listener
+#5(I)[2020-05-08 02:36:47,753]{00000E70}<NvcHost>          Container is initializing
+#6(I)[2020-05-08 02:36:47,753]{00000E70}<NvcPluginManager> Initiate transition to Initializing state for NvFBCPlugin
+#7(I)[2020-05-08 02:36:47,753]{00000E70}<NvcPluginManager> Transition to Initialized state for NvFBCPlugin completed
+#8(I)[2020-05-08 02:36:47,753]{00000E70}<NvcPluginManager> Initiate transition to Initializing state for NvProfileUpdaterPlugin
+#9(I)[2020-05-08 02:36:47,806]{00000E70}<NvcPluginManager> Transition to Initialized state for NvProfileUpdaterPlugin completed
+#0(I)[2020-05-08 02:36:47,806]{00000E70}<NvcPluginManager> Initiate transition to Initializing state for NvXDSyncPlugin
+#1(I)[2020-05-08 02:36:47,806]{00000E70}<NvcPluginManager> Transition to Initialized state for NvXDSyncPlugin completed
+#2(I)[2020-05-08 02:36:47,806]{00000E70}<NvcPluginManager> Initiate transition to Initializing state for AutoFL_Plugin
+#3(I)[2020-05-08 02:36:47,806]{00000E70}<NvcPluginManager> Notification 3 / 0000000000000000 from AutoFL_Plugin
+#4(I)[2020-05-08 02:36:47,806]{00000E70}<NvcPluginManager> Notification: plugin AutoFL_Plugin is done
+#5(I)[2020-05-08 02:36:47,806]{00000E70}<NvcPluginManager> Transition to Initialized state for AutoFL_Plugin completed
+#6(I)[2020-05-08 02:36:47,806]{00000E70}<NvcPluginManager> Transition to Initialized state for AutoFL_Plugin completed
+#7(I)[2020-05-08 02:36:47,806]{00000E70}<NvcHost>          Optional plugin AutoFL_Plugin is in state Initialized. Unload it
+#8(I)[2020-05-08 02:36:47,806]{00000E70}<NvcHost>          Container is going to unload plugin AutoFL_Plugin. State: normal
+#9(I)[2020-05-08 02:36:47,806]{00000E70}<NvcPluginManager> Initiate transition to Uninitializing state for AutoFL_Plugin
+#0(I)[2020-05-08 02:36:47,806]{00000E70}<NvcPluginManager> Transition to Uninitialized state for AutoFL_Plugin completed
+#1(I)[2020-05-08 02:36:47,806]{00000E70}<NvcHost>          Container has uninitialized plugin AutoFL_Plugin. State: normal
+#2(I)[2020-05-08 02:36:47,806]{00000E70}<NvcPluginManager> Unload plugin 'AutoFL_Plugin' - C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\Session/_nvppo.dll
+#3(I)[2020-05-08 02:36:47,806]{00000E70}<NvcPluginManager> Unloaded plugin 'AutoFL_Plugin'
+#4(I)[2020-05-08 02:36:47,806]{00000E70}<NvcHost>          Container is initialized with 1. State: normal
+#5(I)[2020-05-08 02:36:47,806]{00000E70}<NvcHost>          Base host core
+#6(I)[2020-05-08 02:36:47,806]{00000E70}<NvcHost>          Container is starting
+#7(I)[2020-05-08 02:36:47,806]{00000E70}<NvcPluginManager> Initiate transition to Starting state for NvFBCPlugin
+#8(I)[2020-05-08 02:36:47,822]{00000E70}<NvcPluginManager> NvcPluginLoadStats for 'NvFBCPlugin' => LibraryLoadTime = 406733 us, ImageLoadTime = 2140 us, AbsLibraryLoadTime = 404593, InitializeProcTime = 0 us, InitializeTimeTotal = 0 us, StartProcTime = 15626 us, StartTimeTotal = 15626 us. 
+#9(I)[2020-05-08 02:36:47,822]{00000E70}<NvcTelemetryHelp> NvcPluginLoadStats for NvFBCPlugin returned 1
+#0(I)[2020-05-08 02:36:47,822]{00000E70}<NvcPluginManager> Transition to Started state for NvFBCPlugin completed
+#1(I)[2020-05-08 02:36:47,822]{00000E70}<NvcPluginManager> Initiate transition to Starting state for NvProfileUpdaterPlugin
+#2(I)[2020-05-08 02:36:47,822]{00000E70}<NvcPluginManager> NvcPluginLoadStats for 'NvProfileUpdaterPlugin' => LibraryLoadTime = 134000 us, ImageLoadTime = 0 us, AbsLibraryLoadTime = 125937, InitializeProcTime = 53404 us, InitializeTimeTotal = 53404 us, StartProcTime = 0 us, StartTimeTotal = 0 us. 
+#3(I)[2020-05-08 02:36:47,822]{00000E70}<NvcTelemetryHelp> NvcPluginLoadStats for NvProfileUpdaterPlugin returned 1
+#4(I)[2020-05-08 02:36:47,822]{00000E70}<NvcPluginManager> Transition to Started state for NvProfileUpdaterPlugin completed
+#5(I)[2020-05-08 02:36:47,822]{00000E70}<NvcPluginManager> Initiate transition to Starting state for NvXDSyncPlugin
+#6(I)[2020-05-08 02:36:47,822]{00000E70}<NvcPluginManager> Transition to Starting state for NvXDSyncPlugin is in progress
+#7(I)[2020-05-08 02:36:51,858]{00000DFC}<NvcPluginManager> Notification 1 / 0000000000000000 from NvXDSyncPlugin
+#8(I)[2020-05-08 02:36:51,858]{00000DFC}<NvcPluginManager> NvcPluginLoadStats for 'NvXDSyncPlugin' => LibraryLoadTime = 147156 us, ImageLoadTime = 0 us, AbsLibraryLoadTime = 131529, InitializeProcTime = 0 us, InitializeTimeTotal = 0 us, StartProcTime = 0 us, StartTimeTotal = 319173 us. 
+#9(I)[2020-05-08 02:36:51,858]{00000DFC}<NvcTelemetryHelp> NvcPluginLoadStats for NvXDSyncPlugin returned 1
+#0(I)[2020-05-08 02:36:51,858]{00000DFC}<NvcPluginManager> Transition to Started state for NvXDSyncPlugin completed
+#1(I)[2020-05-08 02:36:51,858]{00000E70}<NvcHost>          Container is started with 1. State: normal
+#2(I)[2020-05-08 02:36:51,858]{00000E70}<NvcTelemetryHelp> NvcLoadStats => LibraryLoadTime = 827450 us, InitializeTime = 53404 us, StartTime = 4051411 us, TotalLoadTime = 4990057 us
+#3(I)[2020-05-08 02:36:51,858]{00000E70}<NvcTelemetryHelp> NvcLoadStats returned 1
+#4(I)[2020-05-08 04:02:14,499]{00000E70}<NvcUserAppHost>   Received WM_ENDSESSION message: wparam=1, lparam=0x0
+#5(I)[2020-05-08 04:02:14,499]{00000E70}<NvcUserAppHost>   Exiting on WM_ENDSESSION message
+#6(I)[2020-05-08 04:02:14,514]{00000E70}<NvcHost>          Base host: NVC_MID_EXIT_REBOOT_INITIATED message
+#7(I)[2020-05-08 04:02:14,514]{00000E70}<NvcHost>          Stopping plugins with status 'Any'
+#8(I)[2020-05-08 04:02:14,514]{00000E70}<NvcPluginManager> Initiate transition to Stopping state for NvXDSyncPlugin
+#9(I)[2020-05-08 04:02:14,514]{00000E70}<NvcPluginManager> Transition to Stopping state for NvXDSyncPlugin is in progress
+#0(I)[2020-05-08 04:02:14,514]{00000E70}<NvcPluginManager> Initiate transition to Stopping state for NvProfileUpdaterPlugin
+#1(I)[2020-05-08 04:02:14,530]{00000E70}<NvcPluginManager> Transition to Stopped state for NvProfileUpdaterPlugin completed
+#2(I)[2020-05-08 04:02:14,530]{00000E70}<NvcPluginManager> Initiate transition to Stopping state for NvFBCPlugin
+#3(I)[2020-05-08 04:02:14,546]{00000E70}<NvcPluginManager> Transition to Stopped state for NvFBCPlugin completed

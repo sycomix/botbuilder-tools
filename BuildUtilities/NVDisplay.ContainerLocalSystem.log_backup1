@@ -1,0 +1,124 @@
+#0(I)[2020-05-08 02:36:45,668]{00000A5C}<NvContainer>      Container main v1.25
+#1(I)[2020-05-08 02:36:45,668]{00000A5C}<NvContainer>      Telemetry API initialized
+#2(I)[2020-05-08 02:36:45,678]{00000A5C}<NvcHost>          Base host initialized successfully
+#3(I)[2020-05-08 02:36:45,678]{00000A5C}<NvcHostWin32>     Win32 host initialized successfully
+#4(I)[2020-05-08 02:36:45,686]{00000B30}<NvcServiceHost>   Service host: 'Start-pending' status reported. Exit code 0
+#5(I)[2020-05-08 02:36:45,686]{00000A5C}<NvcServiceHost>   Service host: wait completed with 0
+#6(I)[2020-05-08 02:36:45,688]{00000A5C}<NvcServiceHost>   Created new DACL with added privileges 0x00100000
+#7(I)[2020-05-08 02:36:45,688]{00000A5C}<NvcServiceHost>   Successfully adjusted DACL for process 2648
+#8(I)[2020-05-08 02:36:45,688]{00000A5C}<NvcHost>          Load plugins from C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\LocalSystem
+#9(I)[2020-05-08 02:36:45,728]{00000A5C}<NvcPluginManager> Loading C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\LocalSystem/NvcDispCorePlugin.dll
+#0(W)[2020-05-08 02:36:45,728]{00000A5C}<NvcJsonFileStora> Failed to load JSON from C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\LocalSystem/NvcDispCorePlugin.json
+#1(I)[2020-05-08 02:36:45,728]{00000A5C}<NvcRegistryStora> Successfully initialized RegistryStorage
+#2(I)[2020-05-08 02:36:46,070]{00000A5C}<NvcPluginLoadHel> Secure loading C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\LocalSystem/NvcDispCorePlugin.dll - 27.21.14.5082 at 00007FFA43D90000 took 332061 microseconds
+#3(I)[2020-05-08 02:36:46,070]{00000A5C}<NvcPluginManager> Loaded C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\LocalSystem/NvcDispCorePlugin.dll
+#4(I)[2020-05-08 02:36:46,070]{00000A5C}<NvcPluginManager> Loaded mandatory plugin NvcDispCorePlugin, version 1
+#5(I)[2020-05-08 02:36:46,070]{00000A5C}<NvcPluginManager> Loading C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\LocalSystem/NvcDispWatchdog.dll
+#6(W)[2020-05-08 02:36:46,070]{00000A5C}<NvcJsonFileStora> Failed to load JSON from C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\LocalSystem/NvcDispWatchdog.json
+#7(I)[2020-05-08 02:36:46,070]{00000A5C}<NvcRegistryStora> Successfully initialized RegistryStorage
+#8(I)[2020-05-08 02:36:46,171]{00000A5C}<NvcPluginLoadHel> Secure loading C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\LocalSystem/NvcDispWatchdog.dll - 1.25.2802.9499 at 00007FFA43CF0000 took 84658 microseconds
+#9(I)[2020-05-08 02:36:46,171]{00000A5C}<NvcPluginManager> Loaded C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\LocalSystem/NvcDispWatchdog.dll
+#0(I)[2020-05-08 02:36:46,171]{00000A5C}<NvcPluginManager> Loaded mandatory plugin NvPluginWatchdog, version 1
+#1(I)[2020-05-08 02:36:46,171]{00000A5C}<NvcPluginManager> Loading C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\LocalSystem/NvXDCore.dll
+#2(W)[2020-05-08 02:36:46,171]{00000A5C}<NvcJsonFileStora> Failed to load JSON from C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\LocalSystem/NvXDCore.json
+#3(I)[2020-05-08 02:36:46,171]{00000A5C}<NvcRegistryStora> Successfully initialized RegistryStorage
+#4(I)[2020-05-08 02:36:46,403]{00000A5C}<NvcPluginLoadHel> Secure loading C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\LocalSystem/NvXDCore.dll - 27.21.14.5082 at 00007FFA43690000 took 216188 microseconds
+#5(I)[2020-05-08 02:36:46,403]{00000A5C}<NvcPluginManager> Loaded C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\LocalSystem/NvXDCore.dll
+#6(I)[2020-05-08 02:36:46,403]{00000A5C}<NvcPluginManager> Loaded mandatory plugin NvXDCore, version 1
+#7(I)[2020-05-08 02:36:46,418]{00000A5C}<NvcPluginManager> Loading C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\LocalSystem/_DisplayDriverRAS.dll
+#8(W)[2020-05-08 02:36:46,418]{00000A5C}<NvcJsonFileStora> Failed to load JSON from C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\LocalSystem/_DisplayDriverRAS.json
+#9(I)[2020-05-08 02:36:46,418]{00000A5C}<NvcRegistryStora> Successfully initialized RegistryStorage
+#0(I)[2020-05-08 02:36:46,688]{00000A5C}<NvcPluginLoadHel> Secure loading C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\LocalSystem/_DisplayDriverRAS.dll - 1.10.0.0 at 00007FFA40AD0000 took 253972 microseconds
+#1(I)[2020-05-08 02:36:46,688]{00000A5C}<NvcPluginManager> Loaded C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\LocalSystem/_DisplayDriverRAS.dll
+#2(I)[2020-05-08 02:36:46,688]{00000A5C}<NvcPluginManager> Loaded optional plugin NvTelemetryEventAnalyzer_DeviceDriver_Plugin, version 1
+#3(I)[2020-05-08 02:36:46,688]{00000A5C}<NvcHost>          Creating directory listener to represent current folder state
+#4(I)[2020-05-08 02:36:46,688]{00000A5C}<DirectoryListene> Adding directory C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\LocalSystem.
+#5(I)[2020-05-08 02:36:46,688]{00000A5C}<NvcHost>          Successfully updated directory change listener
+#6(I)[2020-05-08 02:36:46,688]{00000A5C}<NvcHost>          Container is initializing
+#7(I)[2020-05-08 02:36:46,688]{00000A5C}<NvcPluginManager> Initiate transition to Initializing state for NvcDispCorePlugin
+#8(I)[2020-05-08 02:36:46,719]{00000A5C}<NvcPluginManager> Transition to Initialized state for NvcDispCorePlugin completed
+#9(I)[2020-05-08 02:36:46,719]{00000A5C}<NvcPluginManager> Initiate transition to Initializing state for NvPluginWatchdog
+#0(I)[2020-05-08 02:36:46,750]{00000A5C}<NvcPluginManager> Transition to Initialized state for NvPluginWatchdog completed
+#1(I)[2020-05-08 02:36:46,750]{00000A5C}<NvcPluginManager> Initiate transition to Initializing state for NvXDCore
+#2(I)[2020-05-08 02:36:46,750]{00000A5C}<NvcPluginManager> Transition to Initialized state for NvXDCore completed
+#3(I)[2020-05-08 02:36:46,750]{00000A5C}<NvcPluginManager> Initiate transition to Initializing state for NvTelemetryEventAnalyzer_DeviceDriver_Plugin
+#4(I)[2020-05-08 02:36:46,750]{00000A5C}<NvcPluginManager> Transition to Initialized state for NvTelemetryEventAnalyzer_DeviceDriver_Plugin completed
+#5(I)[2020-05-08 02:36:46,750]{00000A5C}<NvcHost>          Container is initialized with 1. State: normal
+#6(I)[2020-05-08 02:36:46,750]{00000A5C}<NvcServiceHost>   Service host: 'Running' status reported. Exit code 0
+#7(I)[2020-05-08 02:36:46,750]{00000A5C}<NvcHost>          Container is starting
+#8(I)[2020-05-08 02:36:46,750]{00000A5C}<NvcPluginManager> Initiate transition to Starting state for NvcDispCorePlugin
+#9(I)[2020-05-08 02:36:46,750]{00000A5C}<NvcPluginManager> Notification 3 / 0000000000000000 from NvcDispCorePlugin
+#0(I)[2020-05-08 02:36:46,750]{00000A5C}<NvcPluginManager> Notification: plugin NvcDispCorePlugin is done
+#1(I)[2020-05-08 02:36:46,750]{00000A5C}<NvcPluginManager> NvcPluginLoadStats for 'NvcDispCorePlugin' => LibraryLoadTime = 342178 us, ImageLoadTime = 0 us, AbsLibraryLoadTime = 332061, InitializeProcTime = 31252 us, InitializeTimeTotal = 31252 us, StartProcTime = 0 us, StartTimeTotal = 0 us. 
+#2(I)[2020-05-08 02:36:46,750]{00000A5C}<NvcTelemetryHelp> NvcPluginLoadStats for NvcDispCorePlugin returned 1
+#3(I)[2020-05-08 02:36:46,750]{00000A5C}<NvcPluginManager> Transition to Started state for NvcDispCorePlugin completed
+#4(I)[2020-05-08 02:36:46,750]{00000A5C}<NvcPluginManager> Transition to Started state for NvcDispCorePlugin completed
+#5(I)[2020-05-08 02:36:46,750]{00000A5C}<NvcPluginManager> Initiate transition to Starting state for NvPluginWatchdog
+#6(I)[2020-05-08 02:36:46,750]{00000A5C}<NvcPluginManager> NvcPluginLoadStats for 'NvPluginWatchdog' => LibraryLoadTime = 100285 us, ImageLoadTime = 15627 us, AbsLibraryLoadTime = 84658, InitializeProcTime = 31250 us, InitializeTimeTotal = 31250 us, StartProcTime = 0 us, StartTimeTotal = 0 us. 
+#7(I)[2020-05-08 02:36:46,750]{00000A5C}<NvcTelemetryHelp> NvcPluginLoadStats for NvPluginWatchdog returned 1
+#8(I)[2020-05-08 02:36:46,750]{00000A5C}<NvcPluginManager> Transition to Started state for NvPluginWatchdog completed
+#9(I)[2020-05-08 02:36:46,750]{00000A5C}<NvcPluginManager> Initiate transition to Starting state for NvXDCore
+#0(I)[2020-05-08 02:36:46,750]{00000A5C}<NvcPluginManager> NvcPluginLoadStats for 'NvXDCore' => LibraryLoadTime = 231816 us, ImageLoadTime = 15628 us, AbsLibraryLoadTime = 216188, InitializeProcTime = 0 us, InitializeTimeTotal = 0 us, StartProcTime = 0 us, StartTimeTotal = 0 us. 
+#1(I)[2020-05-08 02:36:46,766]{00000A5C}<NvcTelemetryHelp> NvcPluginLoadStats for NvXDCore returned 1
+#2(I)[2020-05-08 02:36:46,766]{00000A5C}<NvcPluginManager> Transition to Started state for NvXDCore completed
+#3(I)[2020-05-08 02:36:46,766]{00000A5C}<NvcPluginManager> Initiate transition to Starting state for NvTelemetryEventAnalyzer_DeviceDriver_Plugin
+#4(I)[2020-05-08 02:36:46,766]{00000A5C}<NvcPluginManager> NvcPluginLoadStats for 'NvTelemetryEventAnalyzer_DeviceDriver_Plugin' => LibraryLoadTime = 269598 us, ImageLoadTime = 0 us, AbsLibraryLoadTime = 253972, InitializeProcTime = 0 us, InitializeTimeTotal = 0 us, StartProcTime = 0 us, StartTimeTotal = 0 us. 
+#5(I)[2020-05-08 02:36:46,772]{00000A5C}<NvcTelemetryHelp> NvcPluginLoadStats for NvTelemetryEventAnalyzer_DeviceDriver_Plugin returned 1
+#6(I)[2020-05-08 02:36:46,772]{00000A5C}<NvcPluginManager> Transition to Started state for NvTelemetryEventAnalyzer_DeviceDriver_Plugin completed
+#7(I)[2020-05-08 02:36:46,772]{00000A5C}<NvcHost>          Mandatory plugin NvcDispCorePlugin is in state Started. Unload it
+#8(I)[2020-05-08 02:36:46,772]{00000A5C}<NvcHost>          Container is going to unload plugin NvcDispCorePlugin. State: normal
+#9(I)[2020-05-08 02:36:46,772]{00000A5C}<NvcPluginManager> Initiate transition to Stopping state for NvcDispCorePlugin
+#0(I)[2020-05-08 02:36:46,772]{00000A5C}<NvcPluginManager> Transition to Stopped state for NvcDispCorePlugin completed
+#1(I)[2020-05-08 02:36:46,772]{00000A5C}<NvcHost>          Container has stopped plugin NvcDispCorePlugin. State: normal
+#2(I)[2020-05-08 02:36:46,772]{00000A5C}<NvcPluginManager> Initiate transition to Uninitializing state for NvcDispCorePlugin
+#3(I)[2020-05-08 02:36:46,772]{00000A5C}<NvcPluginManager> Transition to Uninitialized state for NvcDispCorePlugin completed
+#4(I)[2020-05-08 02:36:46,772]{00000A5C}<NvcHost>          Container has uninitialized plugin NvcDispCorePlugin. State: normal
+#5(I)[2020-05-08 02:36:46,772]{00000A5C}<NvcPluginManager> Unload plugin 'NvcDispCorePlugin' - C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\LocalSystem/NvcDispCorePlugin.dll
+#6(I)[2020-05-08 02:36:46,772]{00000A5C}<NvcPluginManager> Unloaded plugin 'NvcDispCorePlugin'
+#7(I)[2020-05-08 02:36:46,772]{00000A5C}<NvcHost>          Container is started with 1. State: normal
+#8(I)[2020-05-08 02:36:46,772]{00000A5C}<NvcTelemetryHelp> NvcLoadStats => LibraryLoadTime = 999983 us, InitializeTime = 62502 us, StartTime = 22155 us, TotalLoadTime = 1280353 us
+#9(I)[2020-05-08 02:36:46,772]{00000A5C}<NvcTelemetryHelp> NvcLoadStats returned 1
+#0(I)[2020-05-08 04:02:36,323]{00000B24}<NvcServiceHost>   Service host: 'Stop-pending' status reported. Exit code 0
+#1(I)[2020-05-08 04:02:36,323]{00000A5C}<NvcHost>          Base host: quit event set
+#2(I)[2020-05-08 04:02:36,323]{00000A5C}<NvcServiceHost>   Service host: 'Stop-pending' status reported. Exit code 0
+#3(I)[2020-05-08 04:02:36,323]{00000A5C}<NvcHost>          Stopping plugins with status 'Any'
+#4(I)[2020-05-08 04:02:36,323]{00000A5C}<NvcPluginManager> Initiate transition to Stopping state for NvTelemetryEventAnalyzer_DeviceDriver_Plugin
+#5(I)[2020-05-08 04:02:36,323]{00000A5C}<NvcPluginManager> Transition to Stopped state for NvTelemetryEventAnalyzer_DeviceDriver_Plugin completed
+#6(I)[2020-05-08 04:02:36,323]{00000A5C}<NvcPluginManager> Initiate transition to Stopping state for NvXDCore
+#7(I)[2020-05-08 04:02:36,323]{00000A5C}<NvcPluginManager> Transition to Stopping state for NvXDCore is in progress
+#8(I)[2020-05-08 04:02:36,323]{00000A5C}<NvcPluginManager> Initiate transition to Stopping state for NvPluginWatchdog
+#9(I)[2020-05-08 04:02:36,323]{00000A5C}<NvcPluginManager> Transition to Stopped state for NvPluginWatchdog completed
+#0(I)[2020-05-08 04:02:36,402]{00000E2C}<NvcPluginManager> Notification 3 / 0000000000000000 from NvXDCore
+#1(I)[2020-05-08 04:02:36,402]{00000E2C}<NvcPluginManager> Notification: plugin NvXDCore is done
+#2(I)[2020-05-08 04:02:36,402]{00000E2C}<NvcPluginManager> Transition to Stopped state for NvXDCore completed
+#3(I)[2020-05-08 04:02:36,402]{00000A5C}<NvcHost>          Mandatory plugin NvXDCore is in state Stopped. Unload it
+#4(I)[2020-05-08 04:02:36,402]{00000A5C}<NvcHost>          Container is going to unload plugin NvXDCore. State: exiting
+#5(I)[2020-05-08 04:02:36,402]{00000A5C}<NvcHost>          Container has stopped plugin NvXDCore. State: exiting
+#6(I)[2020-05-08 04:02:36,402]{00000A5C}<NvcPluginManager> Initiate transition to Uninitializing state for NvXDCore
+#7(I)[2020-05-08 04:02:36,417]{00000A5C}<NvcPluginManager> Transition to Uninitialized state for NvXDCore completed
+#8(I)[2020-05-08 04:02:36,417]{00000A5C}<NvcHost>          Container has uninitialized plugin NvXDCore. State: exiting
+#9(I)[2020-05-08 04:02:36,417]{00000A5C}<NvcPluginManager> Unload plugin 'NvXDCore' - C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\LocalSystem/NvXDCore.dll
+#0(I)[2020-05-08 04:02:36,417]{00000A5C}<NvcPluginManager> NvcPluginUnloadStats for 'NvXDCore' => StopProcTime = 0 us, StopTimeTotal = 78125 us, UninitializeProcTime = 15625 us, UninitializeTimeTotal = 15625 us, LibraryUnloadTime = 0 us, MaxSystemMessageProcessingTime = 171877 us.
+#1(I)[2020-05-08 04:02:36,417]{00000A5C}<NvcTelemetryHelp> NvcPluginUnloadStats for NvXDCore returned 1
+#2(I)[2020-05-08 04:02:36,417]{00000A5C}<NvcPluginManager> Unloaded plugin 'NvXDCore'
+#3(I)[2020-05-08 04:02:36,417]{00000A5C}<NvcHost>          Plugins are stopped. State: exiting
+#4(I)[2020-05-08 04:02:36,417]{00000A5C}<NvcHost>          Uninitializing plugins with status 'Any'
+#5(I)[2020-05-08 04:02:36,417]{00000A5C}<NvcPluginManager> Initiate transition to Uninitializing state for NvTelemetryEventAnalyzer_DeviceDriver_Plugin
+#6(I)[2020-05-08 04:02:36,417]{00000A5C}<NvcPluginManager> Transition to Uninitialized state for NvTelemetryEventAnalyzer_DeviceDriver_Plugin completed
+#7(I)[2020-05-08 04:02:36,417]{00000A5C}<NvcPluginManager> Initiate transition to Uninitializing state for NvPluginWatchdog
+#8(I)[2020-05-08 04:02:36,417]{00000A5C}<NvcPluginManager> Transition to Uninitialized state for NvPluginWatchdog completed
+#9(I)[2020-05-08 04:02:36,417]{00000A5C}<NvcHost>          Plugins are uninitialized. State: exiting
+#0(I)[2020-05-08 04:02:36,417]{00000A5C}<NvcHostWin32>     Base host main completed, setting quit event
+#1(I)[2020-05-08 04:02:36,417]{00000A5C}<DirectoryListene> Waiting for the listener thread to finish...
+#1(I)[2020-05-08 04:02:36,417]{00000DCC}<DirectoryListene> Quit event signaled. Ending thread function.
+#3(I)[2020-05-08 04:02:36,417]{00000A5C}<DirectoryListene> Listener thread finished...
+#4(I)[2020-05-08 04:02:36,417]{00000A5C}<NvcPluginManager> Unload plugin 'NvTelemetryEventAnalyzer_DeviceDriver_Plugin' - C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\LocalSystem/_DisplayDriverRAS.dll
+#5(I)[2020-05-08 04:02:36,417]{00000A5C}<NvcPluginManager> Unloaded plugin 'NvTelemetryEventAnalyzer_DeviceDriver_Plugin'
+#6(I)[2020-05-08 04:02:36,417]{00000A5C}<NvcPluginManager> Unload plugin 'NvPluginWatchdog' - C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\LocalSystem/NvcDispWatchdog.dll
+#7(I)[2020-05-08 04:02:36,417]{00000A5C}<NvcPluginManager> Unloaded plugin 'NvPluginWatchdog'
+#8(I)[2020-05-08 04:02:36,417]{00000A5C}<NvContainer>      Container main exited with success
+#9(I)[2020-05-08 04:02:36,417]{00000A5C}<NvcTelemetryHelp> NvcUnloadStats => StopTime = 93750 us, UninitializeTime = 0 us, DestroyPluginsTime = 0 us, TotalUnloadTime = 93750 us
+#0(I)[2020-05-08 04:02:36,417]{00000A5C}<NvcTelemetryHelp> NvcUnloadStats returned 1
+#1(I)[2020-05-08 04:02:36,417]{00000A5C}<NvcTelemetryHelp> NvcMemoryStats => PeakWorkingSetSize = 20 MB, PeakPagefileUsage = 7 MB
+#2(I)[2020-05-08 04:02:36,417]{00000A5C}<NvcTelemetryHelp> NvcMemoryStats returned 1
+#3(I)[2020-05-08 04:02:36,417]{00000A5C}<NvcServiceHost>   Service host: 'Stopped' status reported. Exit code 0

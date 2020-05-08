@@ -1,0 +1,12 @@
+#0(I)[2020-05-08 02:36:46,688]{00000A5C}<PluginContext>    PluginContext::Initialize called
+#1(I)[2020-05-08 02:36:46,688]{00000A5C}<PluginContext>    Plugin-File C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_bf9d63d85af086a6\Display.NvContainer\plugins\LocalSystem\NvcDispCorePlugin.dll
+#2(I)[2020-05-08 02:36:46,688]{00000A5C}<PluginContext>    File-Version 27.21.14.5082
+#3(I)[2020-05-08 02:36:46,703]{00000A5C}<DBInstallerUtil>  nvCreateProcess for dbInstaller.exe successful
+#4(I)[2020-05-08 02:36:46,719]{00000A5C}<PluginContext>    PluginContext::Initialize finished with result 1
+#5(I)[2020-05-08 02:36:46,750]{00000A5C}<PluginContext>    PluginContext::Start called
+#6(I)[2020-05-08 02:36:46,750]{00000A5C}<PluginContext>    No siblings disabled from INF. Notifying container with NVPLUGIN_NOTIFICATION_DONE
+#7(I)[2020-05-08 02:36:46,750]{00000A5C}<PluginContext>    PluginContext::Start finished with result 1
+#8(I)[2020-05-08 02:36:46,772]{00000A5C}<PluginContext>    PluginContext::Stop called
+#9(I)[2020-05-08 02:36:46,772]{00000A5C}<PluginContext>    PluginContext::Stop finished
+#0(I)[2020-05-08 02:36:46,772]{00000A5C}<PluginContext>    PluginContext::Uninitialize called
+#1(I)[2020-05-08 02:36:46,772]{00000A5C}<PluginContext>    PluginContext::Uninitialize finished
